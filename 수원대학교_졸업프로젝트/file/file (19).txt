@@ -1,0 +1,1 @@
+Sharing,Sharing,Key,Encryption,IoT,zkSNARK,Crypto,Group
